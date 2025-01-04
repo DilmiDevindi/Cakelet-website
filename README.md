@@ -1,4 +1,4 @@
-Developed a vibrant and user-friendly website for a cake and sweets business using Java, HTML, and CSS. The site features visually appealing product showcases, an interactive navigation menu, and a responsive design, ensuring seamless user experiences. Prioritized creativity and functionality to craft a delightful and professional online presence.
+🚀Developed a vibrant and user-friendly website for a cake and sweets business using JavaScript , HTML, and CSS. The site features visually appealing product showcases, an interactive navigation menu, and a responsive design for seamless user experiences. Focused on creating a delightful online presence.🍰
 
 #Java 
 #HTML 
